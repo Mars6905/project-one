@@ -729,6 +729,34 @@
 
 
 
+# a = float(input('Pishi cifru'))
+
+# if a < 2:
+#     print(a*10.5)
+# else:
+#     (21+(a*))
+
+
+
+
+# while True:
+#     ans = (input('Write:'))
+#     if 'blue' in ans.lower():
+#         print('YES')
+#     else:
+#         print('NO')
+
+
+
+
+# ans = str(input('First city'))
+# ans2 = str(input('Second city'))
+# ans3 = str(input('Thrird city'))
+
+# print (min(ans , ans2 , ans3 , key=len) , max(ans , ans2 , ans3 , key=len))
+
+
+
 
 
 
